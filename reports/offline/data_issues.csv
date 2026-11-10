@@ -1,0 +1,4 @@
+type,date,detail
+duplicate_candle,2026-04-30,more than one row for date
+duplicate_candle,2026-04-30,more than one row for date
+missing_date,2026-03-11,1 calendar day(s) missing before 2026-03-12
